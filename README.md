@@ -1,6 +1,7 @@
 **Forecasting demand using Prophet and LSTM**
 
-<u>The problem statement</u>
+
+<u>**The problem statement**<\u>
 
 There are multiple product lines (teams). The Teams are A,B and C. Team C is further split into sub-teams CA, CB, CC, CD. We need to prepare a rolling 12 month forecast for each of the teams/subteams
 
