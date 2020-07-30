@@ -1,4 +1,4 @@
-# Forecasting demand using Prophet and LSTM networks
+# Forecasting demand for multiple products using Prophet and LSTM networks
 
 
 ## The problem statement
